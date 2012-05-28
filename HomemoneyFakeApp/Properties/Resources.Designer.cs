@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HomeMoneyFakeDesctop.Properties
+namespace HomemoneyFakeApp.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace HomeMoneyFakeDesctop.Properties
 			{
 				if ((resourceMan == null))
 				{
-					global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("HomeMoneyFakeDesctop.Properties.Resources", typeof(Resources).Assembly);
+					global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("HomemoneyFakeApp.Properties.Resources", typeof(Resources).Assembly);
 					resourceMan = temp;
 				}
 				return resourceMan;

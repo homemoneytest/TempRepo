@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HomeMoneyFakeDesctop.Properties
+namespace HomemoneyFakeApp.Properties
 {
 
 

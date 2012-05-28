@@ -1,4 +1,4 @@
-﻿namespace HomeMoneyFakeDesctop
+﻿namespace HomemoneyFakeApp
 {
 	partial class Form1
 	{

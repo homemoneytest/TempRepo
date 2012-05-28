@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HomeMoneyFakeDesctop")]
+[assembly: AssemblyTitle("HomemoneyFakeApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP")]
-[assembly: AssemblyProduct("HomeMoneyFakeDesctop")]
+[assembly: AssemblyProduct("HomemoneyFakeApp")]
 [assembly: AssemblyCopyright("Copyright © HP 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("272c9ead-0e64-4e28-9691-eb8694e5fc93")]
+[assembly: Guid("0a451c2d-b895-4866-87f6-3dac33ad9476")]
 
 // Version information for an assembly consists of the following four values:
 //
